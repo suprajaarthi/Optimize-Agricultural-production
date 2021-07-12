@@ -1,5 +1,5 @@
 # Optimize-Agricultural-production
-ML model to predict the best suitable crop for the given climatic condition
+ML model to predict the best suitable crop for the given climatic and soil condition
 
 
 ![image](https://user-images.githubusercontent.com/51900501/118392182-d790d280-b655-11eb-85b1-43849db70b21.png)
